@@ -1,3 +1,6 @@
 # demo_git
-une demo de git qui se passe bien
-et maintenant on modifie depuis Gitub
+Une demo de git qui se passe bien.
+
+Et maintenant on modifie depuis Gitub
+mais aussi depuis ma machine locale.
+
